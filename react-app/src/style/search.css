@@ -1,0 +1,41 @@
+.inputboxstyle{
+    width:500px;
+    height:30px;
+    margin-top:100px;
+    
+}
+.buttonstyle{
+    margin-left:10px;
+    width:100px;
+    height:30px;
+    background-color:white;
+
+}
+.displaybox{
+    border:1px solid gray;
+    margin-top:30px;
+    width:200px;
+    height:auto;
+    display:inline-block;
+}
+.outerdiv{
+
+    text-align:center;
+}
+.linkstyle{
+    text-decoration: none;
+}
+.displaydetailsbox{
+    margin-top:100px;
+    border:1px solid gray;
+    width:500px;
+    height:300px;
+    display:inline-block;
+    text-align: left;
+    padding-left:300px;
+    padding-top:100px;
+}
+.namestyle{
+    font-size: 20px;
+    font-weight: bold;
+}
